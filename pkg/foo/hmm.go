@@ -1,5 +1,5 @@
 package foo
 
-func Favs() []string {
+func Foo() []string {
 	return []string{"foofavone"}
 }
